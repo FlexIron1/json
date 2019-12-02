@@ -1,0 +1,14 @@
+{
+  "name": "Samat",
+  "firstName": "Garipov",
+  "age": "22",
+  "address": [
+    "city: Kazan",
+    "street: Daurian 20А",
+    "Apartment: 0000"
+  ],
+  "phone": [
+    "type: mobile",
+    "number: 89083485772"
+  ]
+}

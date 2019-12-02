@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="com.netflix.feign:feign-jackson:5.4.0" type="repository">
+    <properties maven-id="com.netflix.feign:feign-jackson:5.4.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/feign/feign-jackson/5.4.0/feign-jackson-5.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/dagger/dagger/1.1.0/dagger-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/feign/feign-core/5.4.0/feign-core-5.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.2.2/jackson-databind-2.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.2.2/jackson-annotations-2.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.2.2/jackson-core-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
